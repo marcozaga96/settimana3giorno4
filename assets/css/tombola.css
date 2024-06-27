@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(73, 66, 58);
+  text-align: center;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 992px;
+  margin: 0 auto;
+}
+h1 {
+  margin: 40px;
+  font-size: 5rem;
+  color: rgb(162, 63, 63);
+}
+.cell {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 5px;
+  margin: 5px;
+  width: 8.5%;
+  background-color: rgb(113, 113, 88);
+}
+.btn {
+  margin: 40px;
+  font-size: 3rem;
+  background-color: rgb(162, 63, 63);
+  padding: 10px;
+}
+.colora {
+  background-color: brown;
+}
